@@ -61,23 +61,23 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start gap-3">
                 <Mail className="w-4 h-4 text-neutral-600 mt-0.5" />
-                <a href="mailto:hello@monikasurve.com" className="text-sm text-neutral-600 hover:text-neutral-900 transition-colors">
-                  hello@monikasurve.com
+                <a href="mailto:moonikasurve@gmail.com" className="text-sm text-neutral-600 hover:text-neutral-900 transition-colors">
+                  moonikasurve@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <Phone className="w-4 h-4 text-neutral-600 mt-0.5" />
-                <a href="tel:+919876543210" className="text-sm text-neutral-600 hover:text-neutral-900 transition-colors">
-                  +91 98765 43210
+                <a href="tel:+919130710713" className="text-sm text-neutral-600 hover:text-neutral-900 transition-colors">
+                  +91 9130710713
                 </a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-neutral-600 mt-0.5" />
-                <span className="text-sm text-neutral-600">Mumbai, India</span>
+                <span className="text-sm text-neutral-600">Koregaon Park, Lane C1, Pune</span>
               </li>
               <li className="flex items-center gap-4 mt-4">
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/moonika_surve/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-neutral-600 hover:text-neutral-900 transition-colors"
@@ -86,7 +86,7 @@ export function Footer() {
                   <Instagram className="w-5 h-5" />
                 </a>
                 <a
-                  href="https://wa.me/919876543210"
+                  href="https://wa.me/919130710713"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-neutral-600 hover:text-neutral-900 transition-colors text-sm"

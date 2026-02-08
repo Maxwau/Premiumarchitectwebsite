@@ -168,10 +168,10 @@ export function ContactPage() {
                     <div>
                       <p className="text-sm tracking-wide text-neutral-500 mb-1">Email</p>
                       <a
-                        href="mailto:hello@monikasurve.com"
+                        href="mailto:moonikasurve@gmail.com"
                         className="text-lg text-neutral-900 hover:text-neutral-600 transition-colors"
                       >
-                        hello@monikasurve.com
+                        moonikasurve@gmail.com
                       </a>
                     </div>
                   </div>
@@ -183,10 +183,10 @@ export function ContactPage() {
                     <div>
                       <p className="text-sm tracking-wide text-neutral-500 mb-1">Phone</p>
                       <a
-                        href="tel:+919876543210"
+                        href="tel:+919130710713"
                         className="text-lg text-neutral-900 hover:text-neutral-600 transition-colors"
                       >
-                        +91 98765 43210
+                        +91 9130710713
                       </a>
                     </div>
                   </div>
@@ -197,7 +197,7 @@ export function ContactPage() {
                     </div>
                     <div>
                       <p className="text-sm tracking-wide text-neutral-500 mb-1">Location</p>
-                      <p className="text-lg text-neutral-900">Mumbai, India</p>
+                      <p className="text-lg text-neutral-900">Koregaon Park, Lane C1, Pune</p>
                     </div>
                   </div>
 
